@@ -14,5 +14,9 @@ while True:
     ball = 0
     for i in range(0,3):
         for j in range(0,3):
+            if user[i] = [a,b,c][j]:
+                strike +=1
+                ball -=1
+
 
     
