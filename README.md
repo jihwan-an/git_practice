@@ -10,6 +10,9 @@ last changed: 20260517,  pm 2:09
 1. add 3 branches.
 2. merge them.
 3. doing at 2 repo.
+ 
+
++ 1 branch complete
 
 ## "Basic Information of Branch"
 |명령어|features|
