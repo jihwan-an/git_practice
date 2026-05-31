@@ -7,7 +7,7 @@ int main(void)
 	
 	printf("two number");
 	int b,c;
-	scanf("%b %c", &a, &b);
+	scanf("%d %d", &b, &c);
 	if (a==0)
 		printf("%d \n", b+c);
 	else
