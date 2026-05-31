@@ -14,6 +14,7 @@ while True:
     ball = 0
     for i in range(0,3):
         for j in range(0,3):
+
             if mynum[i]=user[j]:
                 if i==j:
                     strike+=1
